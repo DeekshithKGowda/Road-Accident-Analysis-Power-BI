@@ -28,5 +28,5 @@ a comprehensive tracking and analysis report for recurrent traffic accidents, de
 
 ![Road Accident Analysis Dashboard](https://github.com/DeekshithKGowda/Road-Accident-Analysis-Power-BI/assets/162271614/e1a7336e-9bb8-4984-9ac4-52e7717d0607)
 
-## Acknowledgements
+## Acknowledgements:
 Special thanks to Power BI for providing a powerful platform for data visualization and analysis.
