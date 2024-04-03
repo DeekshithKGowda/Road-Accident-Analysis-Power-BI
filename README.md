@@ -25,7 +25,7 @@ a comprehensive tracking and analysis report for recurrent traffic accidents, de
 - Used different types of customized visualization(Area Chart, Stacked Bar Chart, Donut Chart, Pie Chart, Maps, Slicers, etc...).
 
 - ## Visualization:
-- 
+
 ![Road Accident Analysis Dashboard](https://github.com/DeekshithKGowda/Road-Accident-Analysis-Power-BI/assets/162271614/e1a7336e-9bb8-4984-9ac4-52e7717d0607)
 
 ## Acknowledgements
